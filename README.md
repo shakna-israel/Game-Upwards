@@ -28,12 +28,10 @@ You are free to:
     * Covers programming in C
     * Covers programming in PHP, and JavaScript plus SQL, CSS, and HTML
 
-4. [Javascript Road Trip](https://www.codeschool.com/courses/javascript-road-trip-part-1) -Feely supplied by [CodeSchool](https://www.codeschool.com)
+4. [Javascript Road Trip](https://www.codeschool.com/courses/javascript-road-trip-part-1) - Freely supplied by [CodeSchool](https://www.codeschool.com)
     * 3 part series to learn Javascript, the code that makes the web interactive.
 
 5. [Learn Game Mechanices with Phaser](learnGameMechanicsWithPhaser.md)
 
-6. Pixi.js - https://github.com/GoodBoyDigital/pixi.js/wiki/Resources
-
-7. Babylon.js - http://www.microsoftvirtualacademy.com/training-courses/introduction-to-webgl-3d-with-html5-and-babylon-js
-   - Used to make assassinscreedpirates.com
+7. [Babylon.js](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-webgl-3d-with-html5-and-babylon-js) - Freely suplied by Microsoft
+   * Babylon.js is the system that was used to create [Assassin's Creed: Pirates!](http://race.assassinscreedpirates.com/) a 3D game with fluid dynamics and comaptible with both desktop computers and mobile devices.
