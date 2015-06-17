@@ -33,5 +33,7 @@ You are free to:
 
 5. [Learn Game Mechanices with Phaser](learnGameMechanicsWithPhaser.md)
 
+6. [Visual Studio 2013](workingWithVisualStudio.md) - Freely supplied by Microsoft.
+
 7. [Babylon.js](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-webgl-3d-with-html5-and-babylon-js) - Freely suplied by Microsoft
    * Babylon.js is the system that was used to create [Assassin's Creed: Pirates!](http://race.assassinscreedpirates.com/) a 3D game with fluid dynamics and comaptible with both desktop computers and mobile devices.
