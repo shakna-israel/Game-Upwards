@@ -1,5 +1,10 @@
 # Game-Upwards
+
 A set of tutorials to take you from no programming, to working with Babylon.js
+
+The hope is, if you follow all these tutorials, you will go from no knowledge of programming, to being able to generate your own games on amazing platforms like Babylon.js, the platform behind [Assassin's Creed: Pirates](http://race.assassinscreedpirates.com/).
+
+At an approximation, as all of the tutorials/courses below are self-paced, it should probably take you around 6 months to fully complete everything outlined.
 
 ## Proforma
 
