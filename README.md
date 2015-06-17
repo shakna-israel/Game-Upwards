@@ -19,6 +19,8 @@ You are free to:
     for any purpose, even commercially.
 
     The licensor cannot revoke these freedoms as long as you follow the license terms.
+    
+For more information, check the [LICENSE](LICENSE.md)
 
 ## Contents:
 
