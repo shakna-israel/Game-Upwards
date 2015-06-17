@@ -14,7 +14,7 @@ You are free to:
 ## Contents:
 
 1. [Learn Programming with Scratch](learnProgrammingWithScratch.md)
-2. Git - https://www.codeschool.com/courses/try-git
+2. [Git](https://www.codeschool.com/courses/try-git) - Freely supplied by [CodeSchool](https://www.codeschool.com).
 3. CS50x - https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 4. Javascript Road Trip - https://www.codeschool.com/courses/javascript-road-trip-part-1
 5. Phaser - http://phaser.io/learn/official-tutorials
