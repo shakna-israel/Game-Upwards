@@ -15,8 +15,14 @@ You are free to:
 
 1. [Learn Programming with Scratch](learnProgrammingWithScratch.md)
 2. [Git](https://www.codeschool.com/courses/try-git) - Freely supplied by [CodeSchool](https://www.codeschool.com).
-3. CS50x - https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+* Learn Version Control concepts.
+* Learn Git, one of the most popular Version Control Systems.
+3. [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Freely supplied by Harvard and edX.
+* Covers Scratch in more depth
+* Covers programming in C
+* Covers programming in PHP, and JavaScript plus SQL, CSS, and HTML
 4. Javascript Road Trip - https://www.codeschool.com/courses/javascript-road-trip-part-1
+* Learn Javascript, the code that makes the web interactive.
 5. Phaser - http://phaser.io/learn/official-tutorials
    - Introduce game programming concpts here, like gridded movement
 6. Pixi.js - https://github.com/GoodBoyDigital/pixi.js/wiki/Resources
