@@ -31,8 +31,7 @@ You are free to:
 4. [Javascript Road Trip](https://www.codeschool.com/courses/javascript-road-trip-part-1) -Feely supplied by [CodeSchool](https://www.codeschool.com)
     * 3 part series to learn Javascript, the code that makes the web interactive.
 
-5. Phaser - http://phaser.io/learn/official-tutorials
-   - Introduce game programming concpts here, like gridded movement
+5. [Learn Game Mechanices with Phaser](learnGameMechanicsWithPhaser.md)
 
 6. Pixi.js - https://github.com/GoodBoyDigital/pixi.js/wiki/Resources
 
