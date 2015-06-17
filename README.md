@@ -1,6 +1,10 @@
 # Game-Upwards
 A set of tutorials to take you from no programming, to working with Babylon.js
 
+## Proforma
+
+The documents within this repository, and those that work on them, are in no way affiliated or endorsed by any of the companies that are linked to within.
+
 ## License
 
 You are free to:
@@ -24,8 +28,8 @@ You are free to:
     * Covers programming in C
     * Covers programming in PHP, and JavaScript plus SQL, CSS, and HTML
 
-4. Javascript Road Trip - https://www.codeschool.com/courses/javascript-road-trip-part-1
-    * Learn Javascript, the code that makes the web interactive.
+4. [Javascript Road Trip](https://www.codeschool.com/courses/javascript-road-trip-part-1) -Feely supplied by [CodeSchool](https://www.codeschool.com)
+    * 3 part series to learn Javascript, the code that makes the web interactive.
 
 5. Phaser - http://phaser.io/learn/official-tutorials
    - Introduce game programming concpts here, like gridded movement
